@@ -13,7 +13,7 @@ Ruby on Rails Ver.7.0.4 をDocker上で構築する際のサンプルです。
 
 1. リポジトリのクローン   
 `git clone git@github.com:nna1016/sample-docker-rails7.git`
-2. DB作成
+2. DB作成   
 `docker-compose run web rails db:create`
-3. Docker起動
+3. Docker起動   
 `docker-compose up`
